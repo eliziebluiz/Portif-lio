@@ -1,12 +1,19 @@
-body{
-  font-family: 'Amatic SC', cursive;
+.E{
+  color: aliceblue;
 }
+.L{
+  color: aliceblue;
+  display: flex;
+  margin-left:10px;
+  margin-top: 5px;
+  position: fixed;
+}
+
 .jumbotron.text-center{
   background-image: url("https://media-exp1.licdn.com/dms/image/C4D16AQFaBF0mpu03KA/profile-displaybackgroundimage-shrink_200_800/0?e=1594252800&v=beta&t=CJ_PywxKjF_NaWhHNDHb_yvZ2db_-ytG6NTxNQqi864");
   background-size: 100% 100%;
   background-blend-mode:screen;
 }
-
 .text-cent{
   margin: 20px;
   text-align: center;
@@ -88,18 +95,4 @@ ul{
 .btn.btn-dark.my-2:hover,
 .btn.btn-dark.my-2:focus{
   transform: translateZ(10px) scale(1.0);
-}
-
-.E{
-  color: aliceblue;
-}
-.L{
-  color: aliceblue;
-  display: flex;
-  margin-left:10px;
-  margin-top: 20px;
-  position: fixed;
-}
-.E.L{
-  margin-right: 10px;
 }
