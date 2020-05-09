@@ -1,12 +1,12 @@
 .E{
   color: aliceblue;
+  display: flex;
 }
 .L{
   color: aliceblue;
-  display: flex;
   margin-left:10px;
   margin-top: 5px;
-  position: fixed;
+  position: absolute;
 }
 
 .jumbotron.text-center{
