@@ -7,6 +7,8 @@
 @media (min-width: 400px) {
   body {
     font-size: 14px;
+    align-items: center;
+    background-position: center;
   }
 }
 
