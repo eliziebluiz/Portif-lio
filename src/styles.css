@@ -6,9 +6,8 @@
 
 @media (min-width: 300px) {
   body {
-    font-size: 14px;
+    font-size: 12px;
     align-items: center;
-    margin-right: -10;
     background-position: center;
   }
 }
@@ -175,4 +174,8 @@ ul{
   display:flex; 
   position: relative;
   margin-top:0%;
+}
+
+.container p{
+  text-align: justify;
 }
