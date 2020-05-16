@@ -130,6 +130,12 @@
   font-size: 20px;
   color: rebeccapurple;
 }
+
+#tecs-fab{
+  position: absolute;
+    margin-top: 40px;
+}
+
 .JavaScript{
   color:rgb(233, 233, 7) ;
 }
@@ -182,4 +188,12 @@ ul{
 
 #card-boder{
   height: 380px;
+}
+
+#btn-correct{
+  top: 60px;
+}
+
+#btn-correct-fab{
+  top: 240px;
 }
