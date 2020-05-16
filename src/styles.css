@@ -20,7 +20,7 @@
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
-    font-size: 18px;
+    font-size: 15px;
   }
 }
 
@@ -30,7 +30,7 @@
     align-items: center;
     margin-right: 0;
     background-position: center;
-    font-size: 20px;
+    font-size: 15px;
   }
 }
 
@@ -178,4 +178,8 @@ ul{
 
 .container p{
   text-align: justify;
+}
+
+#card-boder{
+  height: 380px;
 }
